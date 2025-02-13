@@ -23,6 +23,7 @@ authRouter.post('/register', (req, res) => {
 
 authRouter.post('/login', (req, res) => {
     const {username, password} = req.body;
+    
     const user = users.find(user => user.username === username && user.password === password);
 
     if (!user){
@@ -30,6 +31,7 @@ authRouter.post('/login', (req, res) => {
     } 
     // Gera o token de autenticação e o retorna na resposta da requisição
    const token = jwt.sign({message:"teste"}, secretKey,{
+// expira em 1 hora
         expiresIn: '1h'
     });
 
