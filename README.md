@@ -67,10 +67,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Este projeto está licenciado sob a licença MIT.
 
 ## Contato
-- **M Daniel Dantas**
-- **GitHub:** mdanieldantas
-- **LinkedIn:** mdanieldantas
-- **Portfólio:** Portfólio de Daniel Dantas
-- **Email:** contatomarcosdgomes@gmail.com
-- **Currículo:** Baixar Currículo
-<!-- - **Veja Online:** Nome do projeto -->
+
+**M Daniel Dantas**
+
+- **GitHub:** [mdanieldantas](https://github.com/mdanieldantas)
+- **LinkedIn:** [mdanieldantas](https://www.linkedin.com/in/mdanieldantas)
+- **Portfólio:** [Portfólio de Daniel Dantas](https://danieldantasdev.vercel.app)
+- **Email:** [contatomarcosdgomes@gmail.com](mailto:contatomarcosdgomes@gmail.com)
+- **Link do Projeto:** [calculator](Linkdo do projeto)
+- **Currículo:** [Baixar Currículo](https://drive.google.com/file/d/1Z_tqBv6kg4wkDAQHAvY3lcuVSq3rabTt/view?usp=drive_link)
+<!-- - **Veja Online:** [Nome do projeto](link) -->
