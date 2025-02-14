@@ -7,8 +7,8 @@ Este é um projeto prático para estudos em backend, focado na implementação d
 API-authentication-with-JWT -->
 
 ## Imagens do Projeto
-!Placeholder para imagem 1
-!Placeholder para imagem 2
+
+![Projeto](./public/images/image.png)
 
 ## Funcionalidades
 - ✨ Registro de novos usuários
