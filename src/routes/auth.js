@@ -29,8 +29,9 @@ authRouter.post('/login', (req, res) => {
     if (!user){
         return res.status(401).json({message: 'Invalid credentials'});
     } 
+    const payload = {username}; 
     // Gera o token de autenticação e o retorna na resposta da requisição
-   const token = jwt.sign({message:"teste"}, secretKey,{
+   const token = jwt.sign(payload, secretKey,{
 // expira em 1 hora
         expiresIn: '1h'
     });
