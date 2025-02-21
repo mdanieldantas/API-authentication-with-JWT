@@ -74,6 +74,4 @@ Este projeto está licenciado sob a licença MIT.
 - **LinkedIn:** [mdanieldantas](https://www.linkedin.com/in/mdanieldantas)
 - **Portfólio:** [Portfólio de Daniel Dantas](https://danieldantasdev.vercel.app)
 - **Email:** [contatomarcosdgomes@gmail.com](mailto:contatomarcosdgomes@gmail.com)
-<!-- - **Link do Projeto:** [calculator](Linkdo do projeto) -->
-- **Currículo:** [Baixar Currículo](https://drive.google.com/file/d/1Z_tqBv6kg4wkDAQHAvY3lcuVSq3rabTt/view?usp=drive_link)
-<!-- - **Veja Online:** [Nome do projeto](link) -->
+- **Currículo:** [Baixar Currículo](https://docs.google.com/document/d/1_FpPYPXiifH1B3BDWnJuNk05DQfddCOBqFxyT6Citg4/edit?usp=sharing)
